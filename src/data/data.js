@@ -25,7 +25,7 @@ const data =
             },
             "albums": [
                 {
-                    "date": "April 2014",
+                    "date": "April 2016",
                     "title": "Sobreviver",
                     "description": "",
                     "cover": "img/sobreviver.jpg",
@@ -55,7 +55,7 @@ const data =
                     ]
                 },
                 {
-                    "date": "April 2012",
+                    "date": "April 2014",
                     "title": "Desconcertante",
                     "description": "",
                     "cover": "img/desconcertante.jpg",
@@ -121,7 +121,7 @@ const data =
             },
             "albums": [
                 {
-                    "date": "Abril 2014",
+                    "date": "Abril 2016",
                     "title": "Sobreviver",
                     "description": "",
                     "cover": "img/sobreviver.jpg",
@@ -151,7 +151,7 @@ const data =
                     ]
                 },
                 {
-                    "date": "Abril 2012",
+                    "date": "Abril 2014",
                     "title": "Desconcertante",
                     "description": "",
                     "cover": "img/desconcertante.jpg",
