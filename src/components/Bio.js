@@ -10,10 +10,10 @@ class Bio extends React.Component
         const lang = this.context.lang;
 
         return(
-            <main role="main" className="inner cover">
+            <div className="bio">
                 <h1>{data[lang].bio.title}</h1>
                 <p>{data[lang].bio.body}</p>
-            </main>
+            </div>
         )
     }
 }

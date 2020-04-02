@@ -1,22 +1,6 @@
 import React from "react"
-// import LoadingMessage from "./LoadingMessage";
 
 class Loading extends React.Component {
-
-    // constructor() {
-    //     super();
-    //     this.state = {
-    //         isLoading: true
-    //     }
-    // }
-    //
-    // componentDidMount() {
-    //     setTimeout(() => {
-    //         this.setState({
-    //             isLoading: false
-    //         })
-    //     }, 1500);
-    // }
 
     render() {
         return (
@@ -26,11 +10,6 @@ class Loading extends React.Component {
                 </div>
             </div>
         )
-        // return (
-        //     <div>
-        //         <LoadingMessage isLoading={this.state.isLoading} />
-        //     </div>
-        // )
     }
 }
 
