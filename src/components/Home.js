@@ -1,13 +1,9 @@
 import React from "react"
-import { LanguageContext } from "../contexts/LanguageContext";
 
 class Home extends React.Component
 {
-    static contextType = LanguageContext;
-
     render() {
 
-        const lang = this.context.lang;
 
         return(
             <div className="home">

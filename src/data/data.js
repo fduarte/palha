@@ -21,7 +21,7 @@ const data =
             ],
             "bio": {
                 "title": 'Biography',
-                "body": 'Palha d\'Aço are a rock band established in April of 1997 in the island of Terceira, Azores. The band evolved from Punk into Thrash Metal and Prog and currently has 2 albums: "Desconcertante", released in April of 2014, and "Sobreviver" released in April of 2016. The band won a local battle of the bands context "Angra Rock" in 2016. The third album is planned to be released in July of 2020.'
+                "body": 'Palha d\'Aço are a rock band established in April of 1997 in the island of Terceira, Azores. The band evolved from Punk into Thrash Metal and Prog and currently has 2 albums: "Desconcertante", released in April of 2014, and "Sobreviver" released in April of 2016. The band won a local battle of the bands context "Angra Rock" in 2015. The third album is planned to be released in July of 2020.'
             },
             "albums": [
                 {
@@ -117,7 +117,7 @@ const data =
                 "title": 'Biografia',
                 "body": 'Os Palha d\'Aço são uma banda de rock constituída em Abril de 1997 na Ilha Terceira, Açores. Inicialmente com sonoridades Punk, a banda evoluiu para um som Metal com influências Thrash e Prog. \n' +
                     '\n' +
-                    'A banda conta com 2 álbuns "Desconcertante" lançado em Abril de 2014 e "Sobreviver" lançado em Abril de 2016. Foram vencedores da edição 2016 concurso Angra Rock, entretanto já extinto. O terceiro álbum, "Nova Desordem", será lançado em Julho de 2020.'
+                    'A banda conta com 2 álbuns "Desconcertante" lançado em Abril de 2014 e "Sobreviver" lançado em Abril de 2016. Foram vencedores da edição 2015 concurso Angra Rock, entretanto já extinto. O terceiro álbum, "Nova Desordem", será lançado em Julho de 2020.'
             },
             "albums": [
                 {
