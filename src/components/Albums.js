@@ -19,7 +19,7 @@ class Albums extends React.Component
                                 <h1><small><FontAwesomeIcon icon={['fas', 'compact-disc']} /></small> {album.title}</h1>
                                 <p><small>&copy; {album.date}</small></p>
 
-                            <img className="float-left" src={album.cover} />
+                            <img className="float-left mb-3" src={album.cover} />
 
                                 <ol className="float-left">
                                 {album.songs.map((song) =>
