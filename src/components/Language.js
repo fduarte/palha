@@ -13,10 +13,10 @@ class Language extends React.Component {
         const activeEnglishFlag = lang === 'EN' ? 'flag active' : 'flag';
 
         return (
-            <div>
-                <img alt="Portuguese" onClick={() => setLang('PT')} className={activePortugueseFlag} src="/img/portuguese.png" />
-                <img alt="English" onClick={(e) => setLang( 'EN')} className={activeEnglishFlag} src="/img/english.png" />
-            </div>
+            <ul>
+                <li><a href="#"><img alt="Portuguese" onClick={() => setLang('PT')} className={activePortugueseFlag} src="/img/portuguese.png" /></a></li>
+                <li><a href="#"><img alt="English" onClick={(e) => setLang( 'EN')} className={activeEnglishFlag} src="/img/english.png" /></a></li>
+            </ul>
         )
     }
 }

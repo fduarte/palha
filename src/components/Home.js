@@ -4,7 +4,6 @@ class Home extends React.Component
 {
     render() {
 
-
         return(
             <div className="home">
                 <iframe width="590" height="325" src="https://www.youtube.com/embed/KCwjLLsoqso" frameBorder="0"

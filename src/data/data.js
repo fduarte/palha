@@ -117,7 +117,7 @@ const data =
                 "title": 'Biografia',
                 "body": 'Os Palha d\'Aço são uma banda de rock constituída em Abril de 1997 na Ilha Terceira, Açores. Inicialmente com sonoridades Punk, a banda evoluiu para um som Metal com influências Thrash e Prog. \n' +
                     '\n' +
-                    'A banda conta com 2 álbuns "Desconcertante" lançado em Abril de 2014 e "Sobreviver" lançado em Abril de 2016. Foram vencedores da edição 2015 concurso Angra Rock, entretanto já extinto. O terceiro álbum, "Nova Desordem", será lançado em Julho de 2020.'
+                    'A banda conta com 2 álbuns: "Desconcertante" lançado em Abril de 2014 e "Sobreviver" lançado em Abril de 2016. Foram vencedores da edição 2015 concurso Angra Rock, entretanto já extinto. O terceiro álbum, "Nova Desordem", será lançado em Julho de 2020.'
             },
             "albums": [
                 {

@@ -1,5 +1,5 @@
 import React from "react"
-import Header from "./Header"
+import Header2 from "./Header2"
 import Loading from "./Loading";
 import LanguageContextProvider from "../contexts/LanguageContext";
 import Home from "./Home"
@@ -48,7 +48,7 @@ class App extends React.Component {
                 <LanguageContextProvider>
                 <div className="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
                     <Router>
-                    <Header/>
+                    <Header2/>
                         <Switch>
                             <main role="main" className="inner cover">
                                 <Route path="/biography">
