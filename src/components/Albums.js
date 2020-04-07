@@ -16,7 +16,7 @@ class Albums extends React.Component
                 <div className="albums row">
                     {data[lang].albums.map((album, index) => {
                         return <div className="col-sm mb-3">
-                                <h1><small><FontAwesomeIcon icon={['fas', 'compact-disc']} /></small> {album.title}</h1>
+                                <h2><small><FontAwesomeIcon icon={['fas', 'compact-disc']} /></small> {album.title}</h2>
                                 <p><small>&copy; {album.date}</small></p>
 
                             <img className="float-left mb-3" src={album.cover} />

@@ -11,7 +11,7 @@ class Bio extends React.Component
 
         return(
             <div className="bio">
-                <h1>{data[lang].bio.title}</h1>
+                <h2>{data[lang].bio.title}</h2>
                 <p>{data[lang].bio.body}</p>
             </div>
         )

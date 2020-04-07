@@ -6,8 +6,8 @@ class Contacts extends React.Component
     render() {
         return (
             <div className="contacts">
-                <h1>Email</h1>
-                <FontAwesomeIcon icon={['fas', 'envelope']} /> sobreviver97@gmail.com
+                <h2>Email</h2>
+                <FontAwesomeIcon icon={['fas', 'envelope']} /> palha.rocks@gmail.com
             </div>
         );
     }

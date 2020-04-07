@@ -16036,4 +16036,8 @@ a:hover {
   position: absolute;
 }
 
+.videos iframe {
+  width: 100%;
+}
+
 /*# sourceMappingURL=main.css.map */
