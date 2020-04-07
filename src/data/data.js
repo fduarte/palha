@@ -94,16 +94,20 @@ const data =
                     "hash": "0nvLWM_Ly4I"
                 },
                 {
-                    "title": "Vencedores Angra Rock 2015",
-                    "hash": "EUBoUrcthVk"
-                },
-                {
                     "title": "A Tua Vez",
                     "hash": "wFGjEHU2O9E"
                 },
                 {
                     "title": "Antro Democrático",
                     "hash": "02705A5LLp8"
+                },
+                {
+                    "title": "Angra Rock 2016 - concerto completo",
+                    "hash": "xcwHYK2i8ME"
+                },
+                {
+                    "title": "Vencedores Angra Rock 2015",
+                    "hash": "EUBoUrcthVk"
                 },
                 {
                     "title": "Sobreviver",
@@ -220,16 +224,20 @@ const data =
                     "hash": "0nvLWM_Ly4I"
                 },
                 {
-                    "title": "Vencedores Angra Rock 2015",
-                    "hash": "EUBoUrcthVk"
-                },
-                {
                     "title": "A Tua Vez",
                     "hash": "wFGjEHU2O9E"
                 },
                 {
                     "title": "Antro Democrático",
                     "hash": "02705A5LLp8"
+                },
+                {
+                    "title": "Angra Rock 2016 - concerto completo",
+                    "hash": "xcwHYK2i8ME"
+                },
+                {
+                    "title": "Vencedores Angra Rock 2015",
+                    "hash": "EUBoUrcthVk"
                 },
                 {
                     "title": "Sobreviver",

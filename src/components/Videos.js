@@ -23,7 +23,7 @@ class Videos extends React.Component
 
                         <h3><small><FontAwesomeIcon icon={['fas', 'video']} /></small> {video.title}</h3>
 
-                        <iframe height="320px" src={videoUrl} frameBorder="0"
+                        <iframe src={videoUrl} frameBorder="0"
                                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                                 allowFullScreen>
                         </iframe>
