@@ -11,6 +11,10 @@ const data =
                     "to": "/albums"
                 },
                 {
+                    "name": "Videos",
+                    "to": "/videos"
+                },
+                {
                     "name": "Shows",
                     "to": "/shows"
                 },
@@ -80,6 +84,32 @@ const data =
                     ]
                 },
             ],
+            "videos": [
+                {
+                    "title": "Destruição",
+                    "hash": "FkX01CSsGFM"
+                },
+                {
+                    "title": "Um Momento",
+                    "hash": "0nvLWM_Ly4I"
+                },
+                {
+                    "title": "Vencedores Angra Rock 2015",
+                    "hash": "EUBoUrcthVk"
+                },
+                {
+                    "title": "A Tua Vez",
+                    "hash": "wFGjEHU2O9E"
+                },
+                {
+                    "title": "Antro Democrático",
+                    "hash": "02705A5LLp8"
+                },
+                {
+                    "title": "Sobreviver",
+                    "hash": "1S6CqzDft7A"
+                }
+            ],
             "shows": [
                 {
                     "id": 1,
@@ -91,7 +121,6 @@ const data =
                 },
             ],
             "news": {
-
             }
         },
         "PT": {
@@ -105,6 +134,10 @@ const data =
                     "to": "/albums"
                 },
                 {
+                    "name": "Vídeos",
+                    "to": "/videos"
+                },
+                {
                     "name": "Concertos",
                     "to": "/shows"
                 },
@@ -115,9 +148,9 @@ const data =
             ],
             "bio": {
                 "title": 'Biografia',
-                "body": 'Os Palha d\'Aço são uma banda de rock constituída em Abril de 1997 na Ilha Terceira, Açores. Inicialmente com sonoridades Punk, a banda evoluiu para um som Metal com influências Thrash e Prog. \n' +
+                "body": 'Fundada em 1997, a banda de Thrash Metal lançou o seu primeiro álbum, intitulado "Desconcertante", em 2012, altura em que Freddy Duarte (guitarra), Sílvio Avelar (voz), Vítor Costa (baixo) e Bruno Pereira (bateria) decidiram reiniciar o projecto após um interregno de quase uma década. Desde então a sonoridade da banda sofreu alterações drásticas evoluindo de um som Punk Rock "adolescente" para sons Thrash e Hardcore com uma mensagem sócio-política bastante vincada.\n' +
                     '\n' +
-                    'A banda conta com 2 álbuns: "Desconcertante" lançado em Abril de 2014 e "Sobreviver" lançado em Abril de 2016. Foram vencedores da edição 2015 concurso Angra Rock, entretanto já extinto. O terceiro álbum, "Nova Desordem", será lançado em Julho de 2020.'
+                    'Depois de várias participações bem sucedidas no concurso de música Rock local "Angra Rock", com dois segundos lugares e um primeiro lugar em 2015, foram conseguidos os recursos necessários à continuação do projecto e da elaboração de um segundo álbum. "Sobreviver" é composto por 10 músicas totalizando 57 minutos que representam os sentimentos que persistem dentro do grupo em relação à sociedade que os rodeia, com especial atenção à corrupção política e à luta travada por poucos que teimam em acreditar numa mudança para melhor.'
             },
             "albums": [
                 {
@@ -176,6 +209,32 @@ const data =
 
                     ]
                 },
+            ],
+            "videos": [
+                {
+                    "title": "Destruição",
+                    "hash": "FkX01CSsGFM"
+                },
+                {
+                    "title": "Um Momento",
+                    "hash": "0nvLWM_Ly4I"
+                },
+                {
+                    "title": "Vencedores Angra Rock 2015",
+                    "hash": "EUBoUrcthVk"
+                },
+                {
+                    "title": "A Tua Vez",
+                    "hash": "wFGjEHU2O9E"
+                },
+                {
+                    "title": "Antro Democrático",
+                    "hash": "02705A5LLp8"
+                },
+                {
+                    "title": "Sobreviver",
+                    "hash": "1S6CqzDft7A"
+                }
             ],
             "shows": [
                 {
