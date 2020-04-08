@@ -5,6 +5,7 @@ import LanguageContextProvider from "../contexts/LanguageContext";
 import Home from "./Home"
 import Bio from "./Bio"
 import Albums from "./Albums"
+import Photos from "./Photos"
 import Videos from "./Videos";
 import Shows from "./Shows"
 import Contacts from "./Contacts";
@@ -60,6 +61,9 @@ class App extends React.Component {
                                 </Route>
                                 <Route path="/videos">
                                     <Videos />
+                                </Route>
+                                <Route path="/photos">
+                                    <Photos />
                                 </Route>
                                 <Route path="/shows">
                                     <Shows />

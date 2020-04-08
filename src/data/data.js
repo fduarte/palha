@@ -15,8 +15,8 @@ const data =
                     "to": "/videos"
                 },
                 {
-                    "name": "Shows",
-                    "to": "/shows"
+                    "name": "Photos",
+                    "to": "/photos"
                 },
                 {
                     "name": "Contacts",
@@ -142,8 +142,8 @@ const data =
                     "to": "/videos"
                 },
                 {
-                    "name": "Concertos",
-                    "to": "/shows"
+                    "name": "Fotos",
+                    "to": "/photos"
                 },
                 {
                     "name": "Contactos",
