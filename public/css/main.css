@@ -16021,6 +16021,11 @@ a:hover {
 }
 
 /*** Responsive YouTube video ***/
+.home {
+  overflow: hidden;
+  position: relative;
+}
+
 .home iframe {
   left: 0;
   top: 0;
