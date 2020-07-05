@@ -183,6 +183,31 @@ const data =
             },
             "albums": [
                 {
+                    "date": "4 de Julho 2020",
+                    "title": "Juízo de Valor",
+                    "description": "",
+                    "cover": "img/juízo-de-valor.jpg",
+                    "songs": [
+                        'Nova Desordem',
+                        'Geringonça',
+                        'Janela Suja',
+                        'Charlatão',
+                        'Máfia',
+                        'Silêncio Frio',
+                        'Verdade',
+                        'Outra Vez',
+                        'Surreal',
+                        'Instinto Animal'
+                    ],
+                    "links": [
+                        {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com/watch?v=ZcaI65W0YpA&list=PLKhqkUVfeCKRIYBoq3X4XSuAmXW17DA3e",
+                            "icon": ["fab", "youtube"]
+                        },
+                    ]
+                },
+                {
                     "date": "Abril 2016",
                     "title": "Sobreviver",
                     "description": "",
