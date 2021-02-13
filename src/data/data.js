@@ -51,6 +51,26 @@ const data =
                             "url": "https://www.youtube.com/watch?v=ZcaI65W0YpA&list=PLKhqkUVfeCKRIYBoq3X4XSuAmXW17DA3e",
                             "icon": ["fab", "youtube"]
                         },
+                        {
+                            "name": "Spotify",
+                            "url": "https://open.spotify.com/artist/0RpR8P9fCOkPUvP2d7bHh6",
+                            "icon": ["fab", "spotify"]
+                        },
+                        {
+                            "name": "Apple Music",
+                            "url": "https://music.apple.com/pt/album/ju%C3%ADzo-de-valor/1524073184",
+                            "icon": ["fab", "apple"]
+                        },
+                        {
+                            "name": "BandCamp",
+                            "url": "https://palha.bandcamp.com/",
+                            "icon": ["fab", "bandcamp"]
+                        },
+                        {
+                            "name": "Deezer",
+                            "url": "https://www.deezer.com/pt/album/161670082",
+                            "icon": ["fab", "deezer"]
+                        },
                     ]
                 },
                 {
@@ -71,6 +91,11 @@ const data =
                         'Sobreviver'
                     ],
                     "links": [
+                        {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com/watch?v=aQIrlRaDQIs&list=OLAK5uy_nvQPWNL9otvAmdFdZ3J14qJ85DlZRRFHs",
+                            "icon": ["fab", "youtube"]
+                        },
                         {
                             "name": "Spotify",
                             "url": "https://open.spotify.com/album/5a7Gq3bOmWbHuMv9Gvg0nu",
@@ -106,6 +131,11 @@ const data =
 
                     ],
                     "links": [
+                        {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com/watch?v=U3mrvoSt-oE&t=7s",
+                            "icon": ["fab", "youtube"]
+                        },
                     ]
                 },
             ],
@@ -205,6 +235,26 @@ const data =
                             "url": "https://www.youtube.com/watch?v=ZcaI65W0YpA&list=PLKhqkUVfeCKRIYBoq3X4XSuAmXW17DA3e",
                             "icon": ["fab", "youtube"]
                         },
+                        {
+                            "name": "Spotify",
+                            "url": "https://open.spotify.com/artist/0RpR8P9fCOkPUvP2d7bHh6",
+                            "icon": ["fab", "spotify"]
+                        },
+                        {
+                            "name": "Apple Music",
+                            "url": "https://music.apple.com/pt/album/ju%C3%ADzo-de-valor/1524073184",
+                            "icon": ["fab", "apple"]
+                        },
+                        {
+                            "name": "BandCamp",
+                            "url": "https://palha.bandcamp.com/",
+                            "icon": ["fab", "bandcamp"]
+                        },
+                        {
+                            "name": "Deezer",
+                            "url": "https://www.deezer.com/pt/album/161670082",
+                            "icon": ["fab", "deezer"]
+                        },
                     ]
                 },
                 {
@@ -225,6 +275,11 @@ const data =
                         'Sobreviver'
                     ],
                     "links": [
+                        {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com/watch?v=aQIrlRaDQIs&list=OLAK5uy_nvQPWNL9otvAmdFdZ3J14qJ85DlZRRFHs",
+                            "icon": ["fab", "youtube"]
+                        },
                         {
                             "name": "Spotify",
                             "url": "https://open.spotify.com/album/5a7Gq3bOmWbHuMv9Gvg0nu",
@@ -260,7 +315,11 @@ const data =
 
                     ],
                     "links": [
-
+                        {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com/watch?v=U3mrvoSt-oE&t=7s",
+                            "icon": ["fab", "youtube"]
+                        },
                     ]
                 },
             ],

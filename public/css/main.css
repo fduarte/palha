@@ -16039,4 +16039,8 @@ a:hover {
   width: 100%;
 }
 
+.list-group-item {
+  background-color: transparent;
+}
+
 /*# sourceMappingURL=main.css.map */
