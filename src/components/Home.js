@@ -60,6 +60,11 @@ class Home extends React.Component
                             <a href="https://www.rtp.pt/play/p254/e484081/alta-tensao?fbclid=IwAR2hbWztckzKaNsbB53u0EdMS4FPtZyAC_JZjadhqeG6MI9Jrs9LymnSsro"> Alta Tensão</a> de <a href="https://www.facebook.com/antoniofreitas.antena3">António Freitas</a>
                         </li>
                         <li className="list-group-item">
+                            2020-07-10 <br />
+                            O tema "Nova Desordem" passou na emissão 220 do <a href="https://cascaisgarage.pt/emissao-220/">Cascais Garage</a>, de Cláudio Silva, com bandas como Dela Marmy,
+                            Time For T, The Tourist, Layover, Ah Nuc, <a href="https://www.facebook.com/kumpanialgazarra">Kumpania Algazarra</a>, Pop Dell Arte, Never End, Meric, Cicatriz, Banda Zé Ninguém, MAGO.
+                        </li>
+                        <li className="list-group-item">
                             2020-07-04 <br /> Concerto de Lançamento do novo álbum <a href="https://www.youtube.com/watch?v=_YbMHscfIxw">"Juízo de Valor" na VITEC</a>
                         </li>
                         <li className="list-group-item">
