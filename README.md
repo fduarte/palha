@@ -1,8 +1,6 @@
 
 #### This is ReactJS based project, consisting of a band's website.
 
-Hosted at: palhadaço.com
-
 ####Production deployment:
 
 Run <code>npm run build</code> compile assets. This needs to be ran every time a code update has been made.
