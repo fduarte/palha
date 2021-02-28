@@ -78,6 +78,9 @@ class Home extends React.Component
                             2020-07-04 <br /> Entrevista sobre o "Passado, Presente, Futuro" - <a href="https://pedalameobombo.blogspot.com/2020/07/ppf-3-palha-daco.html">Pedala-me o Bombo</a>.
                         </li>
                         <li className="list-group-item">
+                            2020-06-29 <br /> O single "Nova Desordem" foi divulgado na <a href="https://www.facebook.com/hintf.webzine/posts/1443024922552328">Hintf Webzine</a>, de Mário Filipe Pires.
+                        </li>
+                        <li className="list-group-item">
                             2020-06-27 <br /> Palha d’Aço lançam single de estreia do novo álbum “Juízo de Valor” - <a href="https://portugarte.pt/2020/06/27/palha-daco-lancam-single-de-estreia-do-novo-album-juizo-de-valor/">Portugarte</a>
                         </li>
                         <li className="list-group-item">
