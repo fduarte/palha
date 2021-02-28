@@ -25,7 +25,7 @@ const data =
             ],
             "bio": {
                 "title": 'Biography',
-                "body": 'Palha d\'Aço are a rock band established in April of 1997 in the island of Terceira, Azores. The band evolved from Punk into Thrash Metal and Prog and currently has 2 albums: "Desconcertante", released in April of 2014, and "Sobreviver" released in April of 2016. The band won a local battle of the bands context "Angra Rock" in 2015. The third album is planned to be released in July of 2020.'
+                "body": 'Palha d\'Aço are a Thrash/Punk Rock band established in April of 1997 in the island of Terceira, Azores. The band evolved from Punk into Thrash Metal and Prog and currently has 2 albums: "Desconcertante", released in April of 2014, and "Sobreviver" released in April of 2016. The band won a local battle of the bands context "Angra Rock" in 2015. The third album "Juízo de Valor" was released on the 4th of July 2020'
             },
             "albums": [
                 {
@@ -207,9 +207,9 @@ const data =
             ],
             "bio": {
                 "title": 'Biografia',
-                "body": 'Fundada em 1997, a banda de Thrash Metal lançou o seu primeiro álbum, intitulado "Desconcertante", em 2012, altura em que Freddy Duarte (guitarra), Sílvio Avelar (voz), Vítor Costa (baixo) e Bruno Pereira (bateria) decidiram reiniciar o projecto após um interregno de quase uma década. Desde então a sonoridade da banda sofreu alterações drásticas evoluindo de um som Punk Rock "adolescente" para sons Thrash e Hardcore com uma mensagem sócio-política bastante vincada.\n' +
+                "body": 'Fundada em 1997, a banda de Thrash/Punk Metal lançou o seu primeiro álbum, intitulado "Desconcertante", em 2012, altura em que Freddy Duarte (guitarra), Sílvio Avelar (voz), Vítor Costa (baixo) e Bruno Pereira (bateria) decidiram reiniciar o projecto após um interregno de quase uma década. Desde então a sonoridade da banda sofreu alterações drásticas evoluindo de um som Punk Rock "adolescente" para sons Thrash e Hardcore com uma mensagem sócio-política bastante vincada.\n' +
                     '\n' +
-                    'Depois de várias participações bem sucedidas no concurso de música Rock local "Angra Rock", com dois segundos lugares e um primeiro lugar em 2015, foram conseguidos os recursos necessários à continuação do projecto e da elaboração de um segundo álbum. "Sobreviver" é composto por 10 músicas totalizando 57 minutos que representam os sentimentos que persistem dentro do grupo em relação à sociedade que os rodeia, com especial atenção à corrupção política e à luta travada por poucos que teimam em acreditar numa mudança para melhor.'
+                    'Depois de várias participações bem sucedidas no concurso de música Rock local "Angra Rock", com dois segundos lugares e um primeiro lugar em 2015, foram conseguidos os recursos necessários à continuação do projecto e da elaboração de um segundo álbum. "Sobreviver" é composto por 10 músicas totalizando 57 minutos que representam os sentimentos que persistem dentro do grupo em relação à sociedade que os rodeia, com especial atenção à corrupção política e à luta travada por poucos que teimam em acreditar numa mudança para melhor. O terceiro álbum, "Juízo de Valor" foi lançado a 4 de Julho de 2020.'
             },
             "albums": [
                 {
