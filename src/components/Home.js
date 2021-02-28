@@ -13,6 +13,9 @@ class Home extends React.Component
                         <a href="https://www.youtube.com/watch?v=ZcaI65W0YpA&list=PLKhqkUVfeCKRIYBoq3X4XSuAmXW17DA3e">"Juízo de Valor"</a>
                     </h2>
                     <strong>-- 4 de Julho 2020 --</strong>
+                    <div className="border rounded text-uppercase p-3">
+                        <FontAwesomeIcon icon='arrow-alt-circle-down' /> <a href="https://drive.google.com/drive/folders/1UTYN5fdrM9auzHGVRMkVdV_Vsd_SdiOC">PRESS KIT "JUÍZO DE VALOR"</a>
+                    </div>
                     <div className="d-flex flex-row flex-wrap justify-content-center">
                         <div className="p-2">
                             <FontAwesomeIcon icon={['fab', 'youtube']} /> <a href="https://www.youtube.com/watch?v=ZcaI65W0YpA&list=PLKhqkUVfeCKRIYBoq3X4XSuAmXW17DA3e">YouTube</a>
