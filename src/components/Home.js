@@ -42,25 +42,29 @@ class Home extends React.Component
                 <div className="text-left mt-2 ml-1">
                     <ul className="list-group list-group-flush list-group">
                         <li className="list-group-item">
+                            2021-02-26 <br />
+                            O tema "Silêncio Frio" passou no episódio 2 do podcast <a href="https://www.mixcloud.com/miguel-correia8/metal-zone-2">Metal Zone</a> de Miguel Correia.
+                        </li>
+                        <li className="list-group-item">
                             2021-02-13 <br />
-                            Entrevista ao blog <a href="https://musicazores.blogspot.com/2021/02/palha-daco-e-banda-acoriana-em-destaque.html">Mais Música</a>
+                            Entrevista ao blog <a href="https://musicazores.blogspot.com/2021/02/palha-daco-e-banda-acoriana-em-destaque.html">Mais Música</a>.
                         </li>
                         <li className="list-group-item">
                             2021-02-07 <br />
-                            Entrevista à <a href="http://www.revistalusitania.pt/files/LUSITANIA6.pdf">Revista Lusitânia</a>
+                            Entrevista à <a href="http://www.revistalusitania.pt/files/LUSITANIA6.pdf">Revista Lusitânia</a>.
                         </li>
                         <li className="list-group-item">
                             2021-02-06 <br />
-                            Palha d'Aço no <a href="https://museuhmazores.bandcamp.com/track/nova-desordem">Museu do Heavy Metal Açoriano</a> de <a href="https://www.facebook.com/museuHEAVYMETALacoriano">Mário Lino</a>
+                            Palha d'Aço no <a href="https://museuhmazores.bandcamp.com/track/nova-desordem">Museu do Heavy Metal Açoriano</a> de <a href="https://www.facebook.com/museuHEAVYMETALacoriano">Mário Lino</a>.
                         </li>
                         <li className="list-group-item">
                             2021-01-28 <br />
-                            Entrevista ao <a href="https://www.facebook.com/acores.hoje/videos/766389253978852">Açores Hoje</a> com <a href="https://www.facebook.com/solange.vieira.98478">Solange Vieira</a>
+                            Entrevista ao <a href="https://www.facebook.com/acores.hoje/videos/766389253978852">Açores Hoje</a> com <a href="https://www.facebook.com/solange.vieira.98478">Solange Vieira</a>.
                         </li>
                         <li className="list-group-item">
                             2020-08-28 <br />
                             "Juízo de Valor" no
-                            <a href="https://www.rtp.pt/play/p254/e484081/alta-tensao?fbclid=IwAR2hbWztckzKaNsbB53u0EdMS4FPtZyAC_JZjadhqeG6MI9Jrs9LymnSsro"> Alta Tensão</a> de <a href="https://www.facebook.com/antoniofreitas.antena3">António Freitas</a>
+                            <a href="https://www.rtp.pt/play/p254/e484081/alta-tensao?fbclid=IwAR2hbWztckzKaNsbB53u0EdMS4FPtZyAC_JZjadhqeG6MI9Jrs9LymnSsro"> Alta Tensão</a> de <a href="https://www.facebook.com/antoniofreitas.antena3">António Freitas</a>.
                         </li>
                         <li className="list-group-item">
                             2020-07-10 <br />
@@ -68,10 +72,10 @@ class Home extends React.Component
                             Time For T, The Tourist, Layover, Ah Nuc, <a href="https://www.facebook.com/kumpanialgazarra">Kumpania Algazarra</a>, Pop Dell Arte, Never End, Meric, Cicatriz, Banda Zé Ninguém, MAGO.
                         </li>
                         <li className="list-group-item">
-                            2020-07-04 <br /> Concerto de Lançamento do novo álbum <a href="https://www.youtube.com/watch?v=_YbMHscfIxw">"Juízo de Valor" na VITEC</a>
+                            2020-07-04 <br /> Concerto de Lançamento do novo álbum <a href="https://www.youtube.com/watch?v=_YbMHscfIxw">"Juízo de Valor" na VITEC</a>.
                         </li>
                         <li className="list-group-item">
-                            2020-07-04 <br /> Passado, Presente, Futuro - <a href="https://pedalameobombo.blogspot.com/2020/07/ppf-3-palha-daco.html">Pedala-me o Bombo</a>
+                            2020-07-04 <br /> Entrevista sobre o "Passado, Presente, Futuro" - <a href="https://pedalameobombo.blogspot.com/2020/07/ppf-3-palha-daco.html">Pedala-me o Bombo</a>.
                         </li>
                         <li className="list-group-item">
                             2020-06-27 <br /> Palha d’Aço lançam single de estreia do novo álbum “Juízo de Valor” - <a href="https://portugarte.pt/2020/06/27/palha-daco-lancam-single-de-estreia-do-novo-album-juizo-de-valor/">Portugarte</a>
