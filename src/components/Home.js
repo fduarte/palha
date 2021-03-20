@@ -42,6 +42,26 @@ class Home extends React.Component
                 <div className="text-left mt-2 ml-1">
                     <ul className="list-group list-group-flush list-group">
                         <li className="list-group-item">
+                            2021-03-16 <br />
+                            Palha d'Aço no programa <a href="https://www.youtube.com/watch?v=-OddgwfZYLU">"Aromas da Nossa Terra"</a>, na <a href="https://www.facebook.com/locsao2017/">RÁDIO SONS DO SUL</a>, na companhia de muitos e bons nomes do Metal Lusitano.
+                        </li>
+                        <li className="list-group-item">
+                            2021-03-12 <br />
+                            <a href="https://www.youtube.com/watch?v=IvDlnCXo8eE">Entrevista no YouTube</a> com <a href="https://www.facebook.com/jorge.caldeira.142">Jorge Caldeira</a> no programa Catedral do Rock (<a href="https://www.facebook.com/popularfmportugal">Popular FM</a>).
+                        </li>
+                        <li className="list-group-item">
+                            2021-03-11 <br />
+                            O nosso Punk-Metal divulgado no <a href="https://www.facebook.com/pedrademetal/photos/a.489340958741/10158380824383742/">Pedra de Metal</a>.
+                        </li>
+                        <li className="list-group-item">
+                            2021-03-09 <br />
+                            O "Silêncio Frio" e a "Janela Suja" passaram no novo podcast do <a href="https://museuhmazores.bandcamp.com/track/metaleiro-lusitano-2021mar06-varios">Museu do Heavy Metal Açoriano, Metaleiro Lusitano</a>.
+                        </li>
+                        <li className="list-group-item">
+                            2021-03-08 <br />
+                            Palha d'Aço no <a href="https://www.facebook.com/sosmetalradio.show/photos/a.163041407068085/3978776728827848/">S.O.S. Heavy-Metal Radio Show</a>, com o <a href="https://www.facebook.com/imperatore696">Filipe Marta</a>, na <a href="https://www.facebook.com/antenaminho">Antena Minho</a>.
+                        </li>
+                        <li className="list-group-item">
                             2021-02-26 <br />
                             O tema "Silêncio Frio" passou no episódio 2 do podcast <a href="https://www.mixcloud.com/miguel-correia8/metal-zone-2">Metal Zone</a> de Miguel Correia.
                         </li>
